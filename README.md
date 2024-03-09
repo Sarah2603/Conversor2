@@ -1,6 +1,6 @@
-Explicação do código
+Explicação do código:
 
-HTML (index.html):
+
 
 O arquivo HTML define a estrutura da página. Inclui cabeçalho, corpo e um link para o arquivo de estilo (CSS) e script (JavaScript).
 Dentro do corpo, há um contêiner (div) que engloba elementos como títulos, entradas de texto, botões e uma área de saída.
